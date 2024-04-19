@@ -8,10 +8,16 @@ Aurora Systems presents to you the Aurora User Interface.
 
 This User Interface includes the following options, all of which are to your use;<br>
 
-HOME - Main Page of Aurora. Includes the username you are sined in as, and the current time and date based on your region.<br>
-COMMANDS - Shows all In-game commands made by Aurora and plugins. <br>
-CONFIG - All configuration options currently available will show here, and allow you to enable/disable them with ease.<br>
-MUSIC - Music Center for all your musical needs.<br>
-VERSION - Includes the current version, oldest version, and the version status to make sure you stay up to date.<br>
+This User Interface includes the following options, all of which are for your use:
 
-*This read me is currently in Alpha. Expect changes.*
+- **HOME:** Main Page of Aurora. Includes the username you are signed in as and the current time and date based on your region.
+
+- **COMMANDS:** Shows all in-game commands made by Aurora and plugins.
+
+- **CONFIG:** All configuration options currently available will show here, allowing you to enable/disable them with ease.
+
+- **MUSIC:** Music Center for all your musical needs.
+
+- **VERSION:** Includes the current version, oldest version, and the version status to make sure you stay up to date.
+
+*This readme is currently in Alpha. Expect changes.*

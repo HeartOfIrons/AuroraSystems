@@ -8,8 +8,6 @@ Aurora Systems presents to you the Aurora User Interface.
 
 This User Interface includes the following options, all of which are to your use;<br>
 
-This User Interface includes the following options, all of which are for your use:
-
 - **HOME:** Main Page of Aurora. Includes the username you are signed in as and the current time and date based on your region.
 
 - **COMMANDS:** Shows all in-game commands made by Aurora and plugins.

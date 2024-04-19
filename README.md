@@ -1,8 +1,8 @@
 # AURORA SYSTEMS #
 **Alpha Major 0 Minor 3 Patch 4 Lambda (Launch)**
 
-You can find the public usage of your HTTP Service here - <br>
-https://github.com/HeartOfIrons/AuroraSystems/blob/main/HTTPUsage
+Resources & Documentation - <br>
+[How we use your game's HTTP Services](https://github.com/HeartOfIrons/AuroraSystems/blob/main/HTTPUsage)
 
 Aurora Systems presents to you the Aurora User Interface. 
 
@@ -13,4 +13,4 @@ CONFIG - All configuration options currently available will show here, and allow
 MUSIC - Music Center for all your musical needs.<br>
 VERSION - Includes the current version, oldest version, and the version status to make sure you stay up to date.<br>
 
-This read me is currently in Alpha. Expect changes.
+*This read me is currently in Alpha. Expect changes.*

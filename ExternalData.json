@@ -1,3 +1,10 @@
 {
-    "Version": "α0.3.4λ"
+    "Version": "α0.3.4λ",
+    "WhitelistEnabled": false,
+    "Whitelist": [
+        "placeholder"
+    ],
+    "Bans": [
+        "placeholder"
+    ]
 }

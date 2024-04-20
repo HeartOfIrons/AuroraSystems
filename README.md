@@ -18,4 +18,8 @@ This User Interface includes the following options, all of which are to your use
 
 - **VERSION:** Includes the current version, oldest version, and the version status to make sure you stay up to date.
 
+- **GRAPHICS:** Includes FPS and Tick Rate for you to make sure your graphics is running smoothly.
+
+- **CHARACTER:** Allows you to configure your Character's Walkspeed, Jumppower, and Rig Type.
+
 *This readme is currently in Alpha. Expect changes.*

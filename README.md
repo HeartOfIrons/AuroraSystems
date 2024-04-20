@@ -15,7 +15,7 @@ This User Interface includes the following options, all of which are to your use
 
 - **CONFIG:** All configuration options currently available will show here, allowing you to enable/disable them with ease.
 
-- **MUSIC:** Music Center for all your musical needs.
+- **MUSIC:** Music Center for all your musical needs. Includes the Author, Title, and Genre.
 
 - **VERSION:** Includes the current version, oldest version, and the version status to make sure you stay up to date.
 

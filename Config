@@ -1,0 +1,34 @@
+
+-- This Git File contains what the configuration currently looks like. It will be updated every time the Configuration mainmodule is updated.
+
+Config = {
+
+	Formats = {
+		---- Format to use for errors, warns, and prints. If blank it will do none. ----
+		Errors = "|\ AURORA /|: ",
+		---- Included with errors, warns, and prints to show the priority of the message. ----
+		Priority1 = "|\ PRIORITY: ",
+		Priority2 = " \|"
+	};
+	Utilities = {
+		---- Warns on Init() of the Main Manager. ----
+		MainManagerInit = true,
+		---- Warns on Init() of Page Managers. ----
+		---- DEPRECATED PageManagerInit = true,
+	};
+	Management = {
+		---- Enables/Disables Error Management. I suggest leaving this on. ----
+		ErrorManagement = true,
+	};
+	Debug = {
+		---- Standalone Primary Debugger. ----
+		StandaloneDebugger = true,
+	};
+	Plugins = {
+		---- This configuration table is currently being constructed.
+	};
+
+}
+
+
+return Config

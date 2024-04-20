@@ -3,6 +3,7 @@
 
 Resources & Documentation - <br>
 [How we use your game's HTTP Services](https://github.com/HeartOfIrons/AuroraSystems/blob/main/HTTPUsage)
+[What the Configuration looks like](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Config)
 
 Aurora Systems presents to you the Aurora User Interface. 
 

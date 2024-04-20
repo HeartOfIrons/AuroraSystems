@@ -2,7 +2,7 @@
 **Alpha Major 0 Minor 3 Patch 4 Lambda (Launch)**
 
 Resources & Documentation - <br>
-[How we use your game's HTTP Services](https://github.com/HeartOfIrons/AuroraSystems/blob/main/HTTPUsage)
+[How we use your game's HTTP Services](https://github.com/HeartOfIrons/AuroraSystems/blob/main/HTTPUsage) <br>
 [What the Configuration looks like](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Config)
 
 Aurora Systems presents to you the Aurora User Interface. 

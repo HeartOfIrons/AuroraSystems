@@ -2,7 +2,7 @@
 
 # AURORA SYSTEMS #
 
-**Alpha Major 0 Minor 3 Patch 5 Lambda (Launch)**
+[Alpha Major 0 Minor 3 Patch 5 Lambda (Launch)](https://github.com/HeartOfIrons/AuroraSystems/releases/tag/Launch)
 
 Aurora Systems' User Interface offers a comprehensive set of tools and features designed to enhance your experience. From character customization to performance monitoring, Aurora Systems is your all-in-one solution for User Interface choices. Server Owners can modify and restrict any form of pages, plugins, and others, all with a edit.
 

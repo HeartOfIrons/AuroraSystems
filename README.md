@@ -1,30 +1,44 @@
+*⚠️ This README is currently in Alpha. Expect changes.*
+
 # AURORA SYSTEMS #
-**Alpha Major 0 Minor 3 Patch 4 Lambda (Launch)**
 
-Resources & Documentation - <br>
-[How we use your game's HTTP Services](https://github.com/HeartOfIrons/AuroraSystems/blob/main/HTTPUsage) <br>
-[What the Configuration looks like](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Config)
+**Alpha Major 0 Minor 3 Patch 5 Lambda (Launch)**
 
-Aurora Systems presents to you the Aurora User Interface. 
+Aurora Systems' User Interface offers a comprehensive set of tools and features designed to enhance your experience. From character customization to performance monitoring, Aurora Systems is your all-in-one solution for User Interface choices. Server Owners can modify and restrict any form of pages, plugins, and others, all with a edit.
 
-This User Interface includes the following options, all of which are to your use;<br>
+# FEATURES
 
-- **HOME:** Main Page of Aurora. Includes the username you are signed in as and the current time and date based on your region.
+*Lightweight, easy to use and modern.*
+*Many customization options, both Server and Client configuration.*
 
-- **AVATAR:** Edit your Character's Appearance by entering in a UserID of anyone you'd like to become.
+# PAGES
 
-- **CHARACTER:** Allows you to configure your Character's Walkspeed, Jumppower, and Rig Type.
+- **HOME:** Get essential information like your signed-in username, current time, and date based on your region.
+- **AVATAR:** Easily edit your character's appearance by entering a UserID.
+- **CHARACTER:** Customize your character's walk speed, jump power, and rig type.
+- **COMMANDS:** Access a list of in-game commands provided by Aurora and plugins.
+- **CONFIG:** Manage configuration options provided as Client with ease.
+- **CREDITS:** Find all of the contributors and supporters of Aurora.
+- **EXECUTOR:** Run client-sided and server-sided functions conveniently.
+- **GRAPHICS:** Monitor FPS and tick rate for smooth graphics performance.
+- **MUSIC:** Enjoy a music center with author, title, and genre details.
+- **PLUGINS:** Manage active plugins and discover new ones for Aurora.
+- **TOOLS:** Access useful tools for your development needs.
+- **VERSION:** Stay updated with current and oldest versions, and version status.
 
-- **COMMANDS:** Shows all in-game commands made by Aurora and plugins.
+# CHANGELOG
 
-- **CONFIG:** All configuration options currently available will show here, allowing you to enable/disable them with ease.
+**α0.3.5λ**
+- Added Tools Page, Plugins Page, Executor Page
+- Updated Credits to include Executor Modules
+- Updated Music usage and added Music module to control functions
 
-- **CREDITS:** Shows all of the lovely people who support, develop, and create Aurora.
+**α0.3.4λ**
+- Unknown
 
-- **GRAPHICS:** Includes FPS and Tick Rate for you to make sure your graphics is running smoothly.
+**α0.3.3λ**
+- The start of a glorious adventure.
 
-- **MUSIC:** Music Center for all your musical needs. Includes the Author, Title, and Genre.
-
-- **VERSION:** Includes the current version, oldest version, and the version status to make sure you stay up to date.
-
-*This readme is currently in Alpha. Expect changes.*
+# DOCUMENTATION
+- [HTTP Services Usage](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Resources/HTTPUsage)
+- [Server Configuration](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Resources/ServerConfiguration)

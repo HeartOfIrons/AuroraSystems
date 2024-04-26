@@ -42,3 +42,4 @@ Aurora Systems' User Interface offers a comprehensive set of tools and features 
 # DOCUMENTATION
 - [HTTP Services Usage](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Resources/HTTPUsage)
 - [Server Configuration](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Resources/ServerConfiguration)
+- [Plugins & Tools Status](https://github.com/HeartOfIrons/AuroraSystems/issues/1#issue-2266500139)

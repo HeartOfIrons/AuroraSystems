@@ -1,11 +1,4 @@
 {
     "Version": "α0.3.4λ",
-    "WhitelistEnabled": false,
     "Compile": false,
-    "Whitelist": [
-        "placeholder"
-    ],
-    "Bans": [
-        "placeholder"
-    ],
 }

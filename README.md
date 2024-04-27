@@ -1,5 +1,9 @@
 *⚠️ This README is currently in Alpha. Expect changes.*
 
+**🔴 ANNOUNCEMENT 🔴**
+*Aurora Systems now has a Github Wiki for all your development inquiries and needs! Check it out here. It'll contain everything that is currently here!*
+[Aurora Systems' GitWiki](https://github.com/HeartOfIrons/AuroraSystems/wiki)
+
 # AURORA SYSTEMS #
 
 [Alpha Major 0 Minor 3 Patch 5 Lambda (Launch)](https://github.com/HeartOfIrons/AuroraSystems/releases/tag/Launch)

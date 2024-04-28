@@ -17,18 +17,8 @@ Aurora Systems' User Interface offers a comprehensive set of tools and features 
 
 # PAGES
 
-- **HOME:** Get essential information like your signed-in username, current time, and date based on your region.
-- **AVATAR:** Easily edit your character's appearance by entering a UserID.
-- **CHARACTER:** Customize your character's walk speed, jump power, and rig type.
-- **COMMANDS:** Access a list of in-game commands provided by Aurora and plugins.
-- **CONFIG:** Manage configuration options provided as Client with ease.
-- **CREDITS:** Find all of the contributors and supporters of Aurora.
-- **EXECUTOR:** Run client-sided and server-sided functions conveniently.
-- **GRAPHICS:** Monitor FPS and tick rate for smooth graphics performance.
-- **MUSIC:** Enjoy a music center with author, title, and genre details.
-- **PLUGINS:** Manage active plugins and discover new ones for Aurora.
-- **TOOLS:** Access useful tools for your development needs.
-- **VERSION:** Stay updated with current and oldest versions, and version status.
+> [!IMPORTANT]/
+> Moved to [Aurora's Pages Sub-Wiki](https://github.com/HeartOfIrons/AuroraSystems/wiki/PAGES-WIKI)
 
 # CHANGELOG
 

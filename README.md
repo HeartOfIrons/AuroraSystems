@@ -17,7 +17,6 @@ Aurora Systems' User Interface offers a comprehensive set of tools and features 
 
 # PAGES
 
-> [!IMPORTANT]/
 > Moved to [Aurora's Pages Sub-Wiki](https://github.com/HeartOfIrons/AuroraSystems/wiki/PAGES-WIKI)
 
 # CHANGELOG

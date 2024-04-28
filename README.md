@@ -1,6 +1,6 @@
 
 > [!IMPORTANT]\
-> *Aurora Systems now has a [Github Wiki](https://github.com/HeartOfIrons/AuroraSystems/wiki) for all your development inquiries and needs! Check it out here. It'll contain everything that is currently here!*
+> *Aurora Systems now has a [Github Wiki](https://github.com/HeartOfIrons/AuroraSystems/wiki) for all your development inquiries and needs! Check it out here. It'll contain everything about Aurora and its uses instead of this endless void. What are you waiting for?*
 
 # DOCUMENTATION
 - [HTTP Services Usage](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Resources/HTTPUsage)

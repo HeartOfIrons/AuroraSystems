@@ -1,6 +1,8 @@
 {
   "OfficialPlugins":[
-    "X000001": "Template",
+    "XX00000001": "Template",
+    "XX00000002": "DarkMode",
+    "XX00000003": "TommyGun",
   ]
 
 }

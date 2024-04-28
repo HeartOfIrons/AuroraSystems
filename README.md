@@ -1,6 +1,6 @@
-*⚠️ This README is currently in Alpha. Expect changes.*
 
 > [!IMPORTANT]\
+> *⚠️ This README is currently in Alpha. Expect changes.*
 > *Aurora Systems now has a [Github Wiki](https://github.com/HeartOfIrons/AuroraSystems/wiki) for all your development inquiries and needs! Check it out here. It'll contain everything that is currently here!*
 
 # AURORA SYSTEMS #

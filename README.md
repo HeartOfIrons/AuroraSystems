@@ -19,16 +19,7 @@
 
 # CHANGELOG
 
-**α0.3.5λ**
-- Added Tools Page, Plugins Page, Executor Page
-- Updated Credits to include Executor Modules
-- Updated Music usage and added Music module to control functions
-
-**α0.3.4λ**
-- Unknown
-
-**α0.3.3λ**
-- The start of a glorious adventure.
+> Moved to [Aurora's Wiki, Changelog](https://github.com/HeartOfIrons/AuroraSystems/wiki#aurora-systems--changelog)
 
 # DOCUMENTATION
 - [HTTP Services Usage](https://github.com/HeartOfIrons/AuroraSystems/blob/main/Resources/HTTPUsage)
